@@ -1,0 +1,61 @@
+/* * {
+  color: brown;
+} */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Selectors */
+/* Element Selector:  h1, p, li */
+/* ID Selector: #title, #footer */
+/* Class Selector: .title, .footer */
+/* Universal Selector: * */
+/* Group Selector:  h1 .title*/
+
+/* h1 {
+  color: red;
+} */
+/* #title {
+  color: blue;
+} */
+/* .title {
+  color: green;
+} */
+
+/* .box {
+  width: 140px;
+  height: 140px;
+  background-color: red;
+  margin: 50px;
+  padding: 30px;
+  border: 10px solid green;
+} */
+
+/* .box { */
+/* margin:0px 50px 0px 0px; */
+/* margin: 100px 50px 100px 50px; */
+/* margin: 100px 50px 200px; */
+/* margin: 100px 200px; */
+/* margin: 100px; */
+/* margin-top: 100px; */
+/* margin-bottom: 100px; */
+/* margin-right: 100px; */
+/* margin-bottom: 100px; */
+/* } */
+/* 1 em = parent element px */
+/* 1 rem = 16px */
+
+/* CSS Unit -  px, %, em, rem, vw, vh*/
+.box {
+  /* font-size: 25px; */
+}
+.box p {
+  /* font-size: 2rem; */
+  color: green;
+  /* font-weight: 900; */
+  /* font-style: oblique; */
+  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+  /* font: italic 900 50px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+}
