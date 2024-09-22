@@ -8,7 +8,7 @@
 
 // Variable
 
- //Convetions
+ //Conventions
 // Rules for PHP variables:
 //     A variable starts with the $ sign, followed by the name of the variable
 //     A variable name must start with a letter or the underscore character
